@@ -1,0 +1,23 @@
+src/frame/headers.rs
+  s_7131ba8d93112b::t_7b4ffba8b6ad16 934-945
+tests/h2-tests/tests/push_promise.rs
+  s_7131ba8d93112b::t_62081281d45583 166,176,390,400,448,458
+tests/h2-tests/tests/stream_states.rs
+  s_7131ba8d93112b::t_653c2599affda7 346,355,466
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "34c57303c5399af4e0189f7f6afbf095c7df46f3",
+  "prompts": {},
+  "sessions": {
+    "s_7131ba8d93112b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_056a6e985ffeQJ78Gcdiq8s5jP",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Andrew Hauck <ahauck@cloudflare.com>"
+    }
+  }
+}
