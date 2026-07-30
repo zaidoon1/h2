@@ -1,0 +1,50 @@
+src/proto/streams/mod.rs
+  s_e626c7631b946b::t_8524f677326bb0 75,77
+  s_e626c7631b946b::t_55ddd872dd4457 76
+tests/h2-tests/tests/client_request.rs
+  s_e626c7631b946b::t_249f40b56c8ef5 98-99
+  s_e626c7631b946b::t_daca51e7999f1d 97
+  s_e626c7631b946b::t_297c291739c1a4 63-78,80-96,100-104
+  s_e626c7631b946b::t_cdd9e36a731477 79
+  s_e626c7631b946b::t_aa2044dea4d48f 62
+src/client.rs
+  s_e626c7631b946b::t_dae1bffe042993 782,786-790
+  s_e626c7631b946b::t_679f50a63acc8c 1350
+  s_e626c7631b946b::t_9c021b0b58674b 346,348,669
+  s_e626c7631b946b::t_daca51e7999f1d 347,783-785
+src/proto/connection.rs
+  s_e626c7631b946b::t_679f50a63acc8c 127
+  s_e626c7631b946b::t_8524f677326bb0 85
+src/server.rs
+  s_e626c7631b946b::t_679f50a63acc8c 261,263,1520-1522
+  s_e626c7631b946b::t_daca51e7999f1d 262,774-776
+  s_e626c7631b946b::t_9c021b0b58674b 663
+  s_e626c7631b946b::t_dae1bffe042993 773,777-781
+src/proto/streams/recv.rs
+  s_e626c7631b946b::t_55ddd872dd4457 65,67,118,687-689,691,693-694
+  s_e626c7631b946b::t_9c021b0b58674b 62,64,117
+  s_e626c7631b946b::t_7e2b4842df24a3 690
+  s_e626c7631b946b::t_daca51e7999f1d 63,66
+  s_e626c7631b946b::t_679f50a63acc8c 686,692,695-696
+src/proto/mod.rs
+  s_e626c7631b946b::t_8524f677326bb0 51
+  s_e626c7631b946b::t_daca51e7999f1d 43,50
+  s_e626c7631b946b::t_a04784d542f379 45-49
+  s_e626c7631b946b::t_3dd5526ed2f8fc 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2dc0385e4d144269936a7273fb36167bc1f3c9fd",
+  "prompts": {},
+  "sessions": {
+    "s_e626c7631b946b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05043a37affe0F0Xl2NLn40XHk",
+        "model": "@cf/zai-org/glm-5.2"
+      },
+      "human_author": "Matthew Gumport <mgumport@cloudflare.com>"
+    }
+  }
+}
