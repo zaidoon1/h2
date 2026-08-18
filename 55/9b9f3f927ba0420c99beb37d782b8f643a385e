@@ -1,0 +1,19 @@
+catalog-info.yaml
+  s_fa8705cde82eb5::t_45375ccf2f04d5 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "559b9f3f927ba0420c99beb37d782b8f643a385e",
+  "prompts": {},
+  "sessions": {
+    "s_fa8705cde82eb5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fedc9d3f9ffeXIsrWcvK45sJJ4",
+        "model": "gpt-5.6"
+      },
+      "human_author": "connor harwood <charwood@cloudflare.com>"
+    }
+  }
+}

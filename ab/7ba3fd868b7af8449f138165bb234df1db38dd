@@ -1,0 +1,41 @@
+tests/h2-tests/tests/flow_control.rs
+  s_7131ba8d93112b::t_e5d6e6d1928a6e 674
+src/frame/headers.rs
+  s_7131ba8d93112b::t_db34c417374f6d 945
+tests/h2-tests/tests/server.rs
+  s_7131ba8d93112b::t_b08cd5f9d4a030 597-630,632
+  s_7131ba8d93112b::t_50333947fc6d44 631,633-636
+src/proto/connection.rs
+  s_7131ba8d93112b::t_bbeeb22b1fb259 217-226,230-232
+src/proto/error.rs
+  s_7131ba8d93112b::t_bfce1f50456f98 56-60
+src/proto/streams/streams.rs
+  s_7131ba8d93112b::t_aa54aa3b087318 801-805
+src/proto/streams/recv.rs
+  s_e626c7631b946b::t_2e7f539861353d 759
+  s_e626c7631b946b::t_850b63df894906 757-758,761
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ab7ba3fd868b7af8449f138165bb234df1db38dd",
+  "prompts": {},
+  "sessions": {
+    "s_7131ba8d93112b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_056a6e985ffeQJ78Gcdiq8s5jP",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Andrew Hauck <ahauck@cloudflare.com>"
+    },
+    "s_e626c7631b946b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05043a37affe0F0Xl2NLn40XHk",
+        "model": "@cf/zai-org/glm-5.2"
+      },
+      "human_author": "Matthew Gumport <mgumport@cloudflare.com>"
+    }
+  }
+}
