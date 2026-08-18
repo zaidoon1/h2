@@ -1,0 +1,53 @@
+src/proto/streams/mod.rs
+  s_a3771329187a12::t_4f12401c4c9f8b 51-56
+src/proto/streams/recv.rs
+  s_a3771329187a12::t_dd364f87980fee 1289-1290
+src/proto/connection.rs
+  s_a3771329187a12::t_4f12401c4c9f8b 81-82,113-114
+src/client.rs
+  s_a3771329187a12::t_4f12401c4c9f8b 327-332,664-665,1085-1088,1092,1095-1105,1111,1114-1120,1377-1378
+  s_a3771329187a12::t_c5cbb74bcb4518 1089-1091,1106-1110
+  s_a3771329187a12::t_e5a7b802e08cae 1093-1094,1112-1113
+src/proto/streams/counts.rs
+  s_a3771329187a12::t_4f12401c4c9f8b 72-74,92-93,99,101,104,112,114
+  s_a3771329187a12::t_c5cbb74bcb4518 423,425-438
+  s_a3771329187a12::t_7361e828255f8d 353-358,364-365,420
+  s_a3771329187a12::t_dd364f87980fee 417-419,421-422,424
+  s_a3771329187a12::t_f2e19627491013 352
+  s_a3771329187a12::t_e5a7b802e08cae 348-350,403
+src/server.rs
+  s_a3771329187a12::t_4f12401c4c9f8b 256-261,664-665,996-999,1003,1006-1016,1022,1025-1031,1545-1548
+  s_a3771329187a12::t_c5cbb74bcb4518 1000-1002,1017-1021
+  s_a3771329187a12::t_e5a7b802e08cae 1004-1005,1023-1024
+tests/h2-tests/tests/server.rs
+  s_a3771329187a12::t_7ce870607cd2b2 3,117,119-130,132-136,137,142-153,156
+  s_a3771329187a12::t_5fa7ba03c9e58c 182-185
+  s_a3771329187a12::t_cf84238a5bbc0e 131
+  s_a3771329187a12::t_c5cbb74bcb4518 154,157-181,186-193
+  s_a3771329187a12::t_426de7f900c85a 155
+  s_a3771329187a12::t_c4f0ed80b4e490 118,138-141
+tests/h2-tests/tests/stream_states.rs
+  s_a3771329187a12::t_c5cbb74bcb4518 208-250
+  s_a3771329187a12::t_f477a6f16d35c8 189
+  s_a3771329187a12::t_7ce870607cd2b2 162-188,190-207
+  s_a3771329187a12::t_e5a7b802e08cae 10-20,132-134,137,277-280,324-327
+  s_a3771329187a12::t_b303aa30e05f40 379-382
+src/proto/mod.rs
+  s_a3771329187a12::t_e5a7b802e08cae 36-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "320bda3386d2c55fe39aa2a6067eb93407634b92",
+  "prompts": {},
+  "sessions": {
+    "s_a3771329187a12": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fe9eb69dbffeHakUNdYoHNL8H5",
+        "model": "gpt-5.6"
+      },
+      "human_author": "Andrew Hauck <ahauck@cloudflare.com>"
+    }
+  }
+}
