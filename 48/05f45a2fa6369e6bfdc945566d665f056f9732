@@ -1,6 +1,7 @@
 src/proto/streams/recv.rs
   s_e626c7631b946b::t_2e7f539861353d 677-678,681
   s_e626c7631b946b::t_850b63df894906 679-680,684
+  s_94ca941a0c1f97::t_6f9f3c44105d11 663-676
 tests/h2-tests/tests/client_request.rs
   s_e626c7631b946b::t_297c291739c1a4 63-74,76-77,79-81,100
   s_e626c7631b946b::t_2e7f539861353d 62,75,78,92-93,95
@@ -15,6 +16,14 @@ tests/h2-tests/tests/client_request.rs
   "base_commit_sha": "4805f45a2fa6369e6bfdc945566d665f056f9732",
   "prompts": {},
   "sessions": {
+    "s_94ca941a0c1f97": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a018ab-3dd6-7433-b058-e2ca134b325d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ewang <ewang@cloudflare.com>"
+    },
     "s_e626c7631b946b": {
       "agent_id": {
         "tool": "opencode",
