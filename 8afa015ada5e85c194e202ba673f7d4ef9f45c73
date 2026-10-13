@@ -1,0 +1,23 @@
+tests/h2-tests/tests/client_request.rs
+  s_e626c7631b946b::t_99e3588a4c7628 83,95
+  s_e626c7631b946b::t_2e7f539861353d 63,76,79,93-94,96
+src/proto/streams/recv.rs
+  s_e626c7631b946b::t_2e7f539861353d 753-754,757
+  s_e626c7631b946b::t_850b63df894906 755-756,760
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8afa015ada5e85c194e202ba673f7d4ef9f45c73",
+  "prompts": {},
+  "sessions": {
+    "s_e626c7631b946b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05043a37affe0F0Xl2NLn40XHk",
+        "model": "@cf/zai-org/glm-5.2"
+      },
+      "human_author": "Matthew Gumport <mgumport@cloudflare.com>"
+    }
+  }
+}

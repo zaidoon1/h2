@@ -1,0 +1,20 @@
+src/proto/mod.rs
+  s_e626c7631b946b::t_7133a4300641cf 49-50
+  s_e626c7631b946b::t_95ddd1b0a96a3c 51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8d55789a68df360e5b44c277f61bc3dde5b86dbe",
+  "prompts": {},
+  "sessions": {
+    "s_e626c7631b946b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05043a37affe0F0Xl2NLn40XHk",
+        "model": "@cf/zai-org/glm-5.2"
+      },
+      "human_author": "Matthew Gumport <mgumport@cloudflare.com>"
+    }
+  }
+}
